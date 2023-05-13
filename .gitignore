@@ -1,0 +1,7 @@
+.vscode
+
+# google/benchmark
+benchmark/
+
+# executables
+mmap-benchmark
